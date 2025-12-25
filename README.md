@@ -39,7 +39,7 @@ Need a reliable VPS for running Tempo Node?
 ## Quick Start
 
 ```bash
-git clone https://github.com/GoldVPS/tempo-node.git
+git clone https://github.com/BidyutRoy2/tempo-node.git
 cd tempo-node
 chmod +x menu.sh
 ./menu.sh
