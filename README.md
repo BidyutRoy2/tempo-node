@@ -141,11 +141,4 @@ cd ~/.tempo
 
 ---
 
----
-
-## Disclaimer
-
-This repository and scripts are provided **as-is**.
-You are fully responsible for your server, keys, and node operation.
-
----
+<h2> Official Guide : https://docs.tempo.xyz/guide/node</h2>
