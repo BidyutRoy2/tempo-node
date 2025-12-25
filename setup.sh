@@ -17,7 +17,7 @@ TEMPO_DIR="$HOME/.tempo"
 
 echo "[1/6] Installing Docker..."
 if ! command -v docker &> /dev/null; then
-    curl -fsSL https://get.docker.com | sh > /dev/null 2>&1
+    source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/refs/heads/main/installation/docker.sh) > /dev/null 2>&1
     systemctl start docker
     systemctl enable docker
     echo "✅ Docker installed"
