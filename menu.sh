@@ -28,11 +28,6 @@ echo -e "${YELLOW}██╔══██║██║██║  ██║██║
 echo -e "${YELLOW}██║  ██║██║██████╔╝██████╔╝███████╗██║ ╚████║    ╚██████╔╝███████╗██║ ╚═╝ ██║${ENDCOLOR}"
 echo -e "${YELLOW}╚═╝  ╚═╝╚═╝╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝     ╚═════╝ ╚══════╝╚═╝     ╚═╝${ENDCOLOR}"
     echo -e "\e[0m"
-◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-  Join Telegram: https://t.me/hiddengemnews
-Follow Github Get More Node Installation Guide
-◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
-\e[0m" 
 }
 
 # === Confirm prompt (y/n) ===
